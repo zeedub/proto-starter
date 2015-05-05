@@ -1,0 +1,6 @@
+{
+  	"directory": "www/js/libs",
+  	"scripts": {
+	    "postinstall": "./node_modules/.bin/bower-requirejs -c www/js/config.js"
+	}
+}
